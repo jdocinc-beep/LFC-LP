@@ -1,2 +1,2 @@
-# lfc-fonts-
+# lfc-fonts
 lfc-fonts/
